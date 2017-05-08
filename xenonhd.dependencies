@@ -1,51 +1,31 @@
 [
   {
-    "repository": "TH-S3ROOT/android_device_samsung_yuga",
-    "target_path": "device/sony/yuga",
-    "branch": "n"
-  },
-  {
-    "repository": "TH-S3ROOT/android_device_sony_fusion3-common",
+    "repository": "TeamHorizon/android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
     "branch": "n"
   },
   {
-    "repository": "TH-S3ROOT/android_device_sony_common",
+    "repository": "TeamHorizon/android_device_sony_common",
     "target_path": "device/sony/common",
     "branch": "n"
   },
   {
-    "repository": "TH-S3ROOT/android_hardware_sony_thermanager",
+    "repository": "TeamHorizon/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch": "n"    
   },
   {
-    "repository": "TH-S3ROOT/android_device_sony_common",
-    "target_path": "device/sony/common",
-    "branch": "n"
-  },
-  {
-    "repository": "TH-S3ROOT/android_kernel_sony_apq8064",
+    "repository": "TeamHorizon/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
-    "branch": "n"
-  },  
-  {
-    "repository": "TH-S3ROOT/android_bootable_recovery",
-    "target_path": "bootable/recovery-twrp",
-    "branch": "n"
+    "branch": "n-new"
   },
   {
-    "repository": "TH-S3ROOT/android_external_busybox",
+    "repository": "TeamHorizon/android_external_busybox",
     "target_path": "external/busybox",
     "branch": "n"
   },
   {
-    "repository": "TH-S3ROOT/android_packages_apps_SamsungServiceMode",
-    "target_path": "packages/apps/SamsungServiceMode",
-    "branch": "n"
-  },
-  {
-    "repository": "TH-S3ROOT/proprietary_vendor_sony",
+    "repository": "TeamHorizon/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "branch": "n"  
   }

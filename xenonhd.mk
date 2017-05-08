@@ -10,6 +10,10 @@ $(call inherit-product, device/sony/yuga/device.mk)
 # Inherit common product files.
 $(call inherit-product, vendor/xenonhd/config/common_full_phone.mk)
 
+# Device display
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := 
 PRODUCT_BRAND := Sony
